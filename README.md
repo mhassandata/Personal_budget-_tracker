@@ -10,7 +10,7 @@ A clean, interactive personal finance dashboard built with **Python** and **Stre
 ![Main Dashboard](screenshots/screenshot1.png)
 
 ### 📊 Charts & Expense History
-![Charts and Expense History](screenshots/screenshot2.png)
+![Charts and Expense History](screenshots/Screenshot2.png)
 
 ---
 
