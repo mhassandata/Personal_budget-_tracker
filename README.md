@@ -4,7 +4,17 @@ A clean, interactive personal finance dashboard built with **Python** and **Stre
 
 ---
 
-## 🚀 Features
+## � Screenshots
+
+### 🏠 Main Dashboard — Budget Overview & Add Expense
+![Main Dashboard](screenshots/screenshot1.png)
+
+### 📊 Charts & Expense History
+![Charts and Expense History](screenshots/screenshot2.png)
+
+---
+
+## �🚀 Features
 
 | Feature | Description |
 |---|---|
